@@ -1,0 +1,9 @@
+it\blacked\optimizer\Optimizer.class
+it\blacked\optimizer\commands\OptimizeCommand.class
+it\blacked\optimizer\utils\ServerUtils.class
+it\blacked\optimizer\listeners\WorldEditListener.class
+it\blacked\optimizer\config\ConfigManager.class
+it\blacked\optimizer\tasks\OptimizationTask.class
+it\blacked\optimizer\utils\MemoryUtils.class
+it\blacked\optimizer\commands\OptimizeTabCompleter.class
+it\blacked\optimizer\listeners\ChunkListener.class

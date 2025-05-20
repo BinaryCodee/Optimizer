@@ -1,0 +1,15 @@
+auto-task:
+  enabled: true
+  interval-seconds: 300
+
+optimization:
+  max-chunks-per-world: 1024
+  tps: true
+  ram: true
+  cpu: true
+  disk: true
+  chunk-loading: true
+
+worldedit:
+  limit-operations: true
+  max-blocks: 1000000

@@ -1,0 +1,11 @@
+name: Optimizer
+version: '1.0'
+main: it.blacked.optimizer.Optimizer
+api-version: '1.8'
+commands:
+  optimize:
+    usage: /optimize [help | starttask | stoptask | manualtask | info]
+    permission: optimizer.use
+permissions:
+  optimizer.use:
+    default: op
