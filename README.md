@@ -90,7 +90,7 @@ A: While Optimizer significantly reduces common lag sources, some issues may req
 A: Yes, Optimizer has been designed with safety in mind and performs optimizations without risking data corruption or server crashes.
 
 ## Support
-
+- **Discord**: [Join our Discord](https://discord.gg/BsYQhyv99j)
 If you encounter any issues or have suggestions for improvements, please create an issue on our [GitHub repository](https://github.com/binarycodee/optimizer/issues).
 
 ## License
